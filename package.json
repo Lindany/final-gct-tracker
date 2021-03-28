@@ -1,7 +1,11 @@
 {
   "name": "matx-react",
   "version": "1.0.0",
+  "description": "a really cool app",
   "private": true,
+   "engines": {
+    "node": "12.18.3"
+  },
   "dependencies": {
     "@date-io/core": "^1.3.13",
     "@date-io/date-fns": "^1.3.6",
